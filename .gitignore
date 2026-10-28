@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.idea/
+tmp/
+.DS_Store
+# outputs written next to inputs by the CLI
+sample_images/*_ideal.png
+sample_images/*_butterworth.png
+sample_images/*_gaussian.png
